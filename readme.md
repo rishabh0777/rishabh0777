@@ -2,7 +2,7 @@
 
 🌟 **Frontend Developer | Aspiring Full-Stack Developer**
 
-I'm passionate about crafting **clean, responsive web designs** and bringing them to life with **modern JavaScript frameworks** like React. Currently, I'm diving into **backend development** with **MongoDB** and **Express.js** to create full-stack projects.
+I'm passionate about crafting **clean, responsive web designs** and bringing them to life with **modern JavaScript frameworks** like React. Currently, I'm diving into **backend development** to create full-stack projects, while adding dynamic animations using **GSAP** and **Framer Motion**.
 
 ---
 
@@ -14,8 +14,8 @@ I'm passionate about crafting **clean, responsive web designs** and bringing the
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?&style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?&style=flat-square&logo=express&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?&style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%23FF0050.svg?&style=flat-square&logo=framer&logoColor=white)
 
 ---
 
@@ -32,8 +32,8 @@ Feel free to explore more of my work in the [repositories](https://github.com/Ri
 
 ### 🌱 Currently Learning
 
-- Backend Development (Node.js, Express.js, MongoDB)
-- Animations with GSAP
+- Backend Development (Node.js)
+- Advanced JavaScript & Animations with GSAP and Framer Motion
 
 ---
 
