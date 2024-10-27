@@ -25,7 +25,7 @@ Here are a few of my favorite projects:
 - **[Spice Saga](https://rishabh0777.github.io/spice_saga/)** - A flavorful frontend experience!
 - **[TechVista](https://rishabh0777.github.io/techvista/)** - Your go-to tech gear destination.
 - **[Atmos](https://rishabh0777.github.io/Atmos/)** - Bringing a fresh vibe to the web.
-- **[Ishani Aqua Mineral Water](https://ishaniaqua.netlify.app/)** - A refreshing online presence for pure mineral water.
+- **[ishaniaqua](https://ishaniaqua.netlify.app/)** - A refreshing online presence for pure mineral water.
 
 Feel free to explore more of my work in the [repositories](https://github.com/Rishabh0777?tab=repositories).
 
